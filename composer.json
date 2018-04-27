@@ -1,5 +1,5 @@
 {
-    "name": "famous/customtheme",
+    "name": "famousTM/famousTheme",
     "description": "N/A",
     "require": {
         "php": "~5.6.0|~7.0.*|~7.1.*",
