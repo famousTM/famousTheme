@@ -1,9 +1,9 @@
 {
-    "name": "famousTM/famousTheme",
+    "name": "famous/customtheme",
     "description": "N/A",
     "require": {
         "php": "~5.6.0|~7.0.29|~7.1.0",
-        "famousTM/famousTheme": "100.0.1",
+        "famous/customtheme": "100.0.1",
         "magento/framework": "101.0.*"
     },
     "type": "magento2-theme",
