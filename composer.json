@@ -2,8 +2,8 @@
     "name": "famous/customtheme",
     "description": "N/A",
     "require": {
-        "php": "7.0.29",
-        "magento/theme-frontend-luma": "100.2.2",
+        "php": "~5.6.0|~7.0.*|~7.1.*",
+        "magento/theme-frontend-luma": ">=100.0.0",
         "magento/framework": "101.0.*"
     },
     "type": "magento2-theme",
