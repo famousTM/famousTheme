@@ -1,9 +1,6 @@
 {
     "name": "famous/customtheme",
     "description": "N/A",
-    "require": {
-        "magento/theme-frontend-luma": "100.2.*"
-    },
     "type": "magento2-theme",
     "version": "100.2.4",
     "license": [
